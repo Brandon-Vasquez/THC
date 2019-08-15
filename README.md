@@ -24,3 +24,8 @@ Search through our Hustle section to discover job opportunities, partnerships an
 Discover the latest news in technology, culture and how the two intersect. If you have any events, news or general happenings in your local community that you'd like to promot please reach out to us.
 
 [Culture Section](https://github.com/floreo-labs/THC/tree/master/Culture).
+<br/>
+
+# Contributers
+
+The THC repo is mainted by a community of Creative Technologist who are members of Floreo Labs. If you'd like to get in contact about joining or contributing to the Lab check out [The Floreo Labs Website](https://floreolabs.org) for more info and reach out to us @ info@floreolabs.org
