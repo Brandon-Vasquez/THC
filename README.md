@@ -7,7 +7,6 @@
     
 </p><br/>
 <br/>
-<br/>
 <p align="center">
 <a href="https://www.floreolabs.org/subscribe">Don't miss out! Subscribe to our weekly newsletter</a>
 
