@@ -1,6 +1,5 @@
 <br/>
 <br/>
-<br/>
 <p align="center">
     <img alt="Tech Hustle Cutlure" src="THC_logo.png" width="480" />
 
@@ -17,6 +16,8 @@ Check out our Tech section to find tutorials, projects, and other resources rega
 
 [Tech Section](https://github.com/floreo-labs/THC/tree/master/Tech).
 <br/>
+
+
 
 # Hustle :battery: :dollar:
 Search through our Hustle section to discover job opportunities, partnerships and events that are THC approved. <br/>

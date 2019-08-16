@@ -1,4 +1,5 @@
 <br/>
 <br/>
 <p align="center">
-    <img alt="Tech" src="Tech_logo.png" width="480" />
+:computer: <img alt="Tech" src="Tech_logo.png" width="200" /> :zap:
+</p>

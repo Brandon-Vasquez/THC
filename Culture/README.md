@@ -1,4 +1,5 @@
 <br/>
 <br/>
 <p align="center">
-    <img alt="Tech" src="Culture_logo.png" width="480" />
+    <img alt="Tech" src="Culture_logo.png" width="200" />
+</p>
