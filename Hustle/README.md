@@ -1,4 +1,4 @@
 <br/>
 <br/>
 <p align="center">
-    <img alt="Tech" src="Hustle_logo.png" width="480" />
+    <img alt="Tech" src="Hustle_logo.png" width="380" />
