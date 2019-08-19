@@ -21,8 +21,6 @@ The tech section of the THC repo is a one stop spot to find tutorials, projects,
 
 * [SimonSays App]()
 
-* [SimonSays App]()
-
 * [Quiz App]()
 
 * [Calculator App]()
