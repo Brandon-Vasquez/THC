@@ -16,6 +16,19 @@ The tech section of the THC repo is a one stop spot to find tutorials, projects,
 ### Articles
 
 ### Projects
+* [SQLite Multiple Choice Quiz (Java)](https://www.youtube.com/playlist?list=PLrnPJCHvNZuDCyg4Usq2gHMzz6_CiyQO7)
+
+* [Tic Tac Toe (Java)](https://www.youtube.com/playlist?list=PLrnPJCHvNZuA0ykzsHIdQUC5yKxArSM2V)
+
+* [Countdown Timer (Java)](https://www.youtube.com/playlist?list=PLrnPJCHvNZuB8wxqXCwKw2_NkyEmFwcSd)
+
+* [Stopwatch (Java)](https://www.youtube.com/watch?v=RLnb4vVkftc)
+
+* [Reminder App](https://www.youtube.com/playlist?list=PLrnPJCHvNZuCN52QwGu7YTSLIMrjCF0gM)
+
+* [Single Note App](https://www.youtube.com/watch?v=EcfUkjlL9RI)
+
+* [To Do List / Grocery List](https://www.youtube.com/playlist?list=PLrnPJCHvNZuBMJmll0xy2L2McYInT3aiu)
 
 * [News Feed App]()
 
@@ -28,6 +41,10 @@ The tech section of the THC repo is a one stop spot to find tutorials, projects,
 * [Pokédex app]()
 
 ### Videos
+
+* [Constraint Layout Beginner Tutorial](https://www.youtube.com/watch?v=mtYBBInIIE8)
+
+* 
 
 ### Courses
 
