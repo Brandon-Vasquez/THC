@@ -15,7 +15,9 @@ The tech section of the THC repo is a one stop spot to find tutorials, projects,
 
 ## iOS
 <br/>
+
 ## Web
 <br/>
+
 # Design
 <br/>
